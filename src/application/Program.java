@@ -74,7 +74,7 @@ public class Program {
                 default:
                     System.out.println("Opção inválida.");
             }
-        } while (opcao != 5);
+        } while (opcao != 6);
 
         scanner.close();
     }
